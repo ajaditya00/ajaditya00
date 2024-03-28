@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=mdjamikhan.mdjamikhan" />
 
 <h1 style="text-align: center;">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=+;Hi+There!+👋;+I'm+Md+Jami+Khan!;+Welcome+to+my+Profile;+Coder;+I+am+a+software+developer;+Frontend+Developer;+Full+Stack+Developer;+Web+Developer;+Backend+Developer" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=+;Hi+There!+👋;+I'm+Aditya+Raj!;+Welcome+to+my+Profile;+Coder />
 </h1>
 
 
